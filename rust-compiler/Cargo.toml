@@ -1,0 +1,6 @@
+[package]
+name = "rust-compiler"
+version = "0.1.0"
+authors = ["Andrew Nelson <andrew2nelson@gmail.com>"]
+
+[dependencies]
