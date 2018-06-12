@@ -3,4 +3,9 @@ name = "rust-compiler"
 version = "0.1.0"
 authors = ["Andrew Nelson <andrew2nelson@gmail.com>"]
 
+[lib]
+name = "mini"
+path = "src/lib.rs"
+
 [dependencies]
+serde_json = "1.0"

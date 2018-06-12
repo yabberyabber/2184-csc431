@@ -1,6 +1,43 @@
+struct node
+{
+       int data;
+          struct node next;
+};
+
+struct tnode
+{
+       int data;
+          struct tnode left;
+             struct tnode right;
+};
+
+struct i
+{
+       int i;
+};
+
+struct myCopy
+{
+       bool b;
+};
+
+int a,b;
+struct i i;
+
+
+fun abc (int x, (int -> int) y, (-> (-> int)) oeu) (bool -> bool) {
+  main();
+}
+
 fun main () (int int -> int) {
+  int a,b  , c, d;
   fun inner (int a, int b) int {
     return 9;
   }
+  a = 4;
+  b = a;
+  a = a + a + a;
+  a = a + b / c - d;
+  i.i = i.i;
   return inner;
 }
